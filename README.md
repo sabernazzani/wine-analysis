@@ -28,9 +28,9 @@ This function aggregates data in a quantile-based statistical approach and creat
 This function calculates the average wine sentiment score per country and the price average per country. Next I plotted an interactive choropleth map with the `px.choropleth` function. 
 
 ## Results
--  Rosé wines: there seems to be a linear regression in the price quality relationship but very inconsistent, with high and low peaks meaning high volatility. We might not have enough information in the dataset or a representative sample size because we can’t seem to notice a pattern or a relationship. It is worth mentioning that rose was the least reviewed type of wine in the dataset.
--  White wines: there seems to be a fairly straight linear regression and positive correlation meaning that price and quality go up at a fairly similar pace. In other words the pricier the white wine, to some extent the better the quality.
--  Red wines: There is no correlation evident for red wines. There seems to be a sweet spot around $20 then a decay and another sweet spot at $40 where quality is considered high by the sentiment score at those similar price points.
+-  **Rosé wines:** there seems to be a linear regression in the price quality relationship but very inconsistent, with high and low peaks meaning high volatility. We might not have enough information in the dataset or a representative sample size because we can’t seem to notice a pattern or a relationship. It is worth mentioning that rose was the least reviewed type of wine in the dataset.
+-  **White wines:** there seems to be a fairly straight linear regression and positive correlation meaning that price and quality go up at a fairly similar pace. In other words the pricier the white wine, to some extent the better the quality.
+-  **Red wines:** There is no correlation evident for red wines. There seems to be a sweet spot around $20 then a decay and another sweet spot at $40 where quality is considered high by the sentiment score at those similar price points.
 
 ## Conclusions
 Price and quality do not seem to have a strong relationship according to the results of my analysis. 
