@@ -1,6 +1,6 @@
 # Wine Price-Quality Analysis
 
-Problem statement: As a consequence of the highly complex nature of wine as a product, the relationship between wine quality (+ value perception) and price has been a long debate and topic of research for years.
+Problem statement: As a consequence of the highly complex nature of wine as a product, the relationship between wine quality (+ value perception) and price has been a long debate and topic of research.
 
 
 ## Feature Engineer
